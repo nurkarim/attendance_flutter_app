@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956343535202",
+    "firebase_url": "https://hs-attendance-5707d-default-rtdb.firebaseio.com",
+    "project_id": "hs-attendance-5707d",
+    "storage_bucket": "hs-attendance-5707d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956343535202:android:3c6db6587d72218738b33b",
+        "android_client_info": {
+          "package_name": "com.example.hs_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956343535202-ivp9hlscn87ikhtvss91p0kek4lvpokv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97ZODXnFOnk9mhW_YC610OnhysUGPO8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956343535202-ivp9hlscn87ikhtvss91p0kek4lvpokv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
